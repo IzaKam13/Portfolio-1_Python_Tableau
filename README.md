@@ -16,9 +16,9 @@ To simulate a real-world reporting scenario often seen in ERP systems — where 
 
 ## Key Metrics
 
-- 💰 Total Revenue: €243,770
-- 🚚 Average Delivery Time: 6.5 days
-- 📉 Late Deliveries: ~18% in some regions
+- Total Revenue: €243,770
+- Average Delivery Time: 6.5 days
+- Late Deliveries: ~18% in some regions
 
 ## Dashboard
 
