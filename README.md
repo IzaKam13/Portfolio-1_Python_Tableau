@@ -1,4 +1,4 @@
-# Sales & Logistics Analytics & Dashboard - Portfolio Project
+# Sales & Logistics Analytics - Portfolio Project
 
 This project showcases an end-to-end workflow for transforming raw sales data into actionable business insights using **Python** and **Tableau**.
 
