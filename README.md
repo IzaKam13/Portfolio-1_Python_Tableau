@@ -43,4 +43,4 @@ The final Tableau dashboard includes:
 
 - `data/`: ![Raw](https://github.com/IzaKam13/Portfolio-1_Sales-Logistics_Python-Tableau-Dashboard/blob/main/data/raw_sales_logistics_data.csv) and ![cleaned](https://github.com/IzaKam13/Portfolio-1_Sales-Logistics_Python-Tableau-Dashboard/blob/main/data/sales_logistics_data_clean.csv) datasets
 - `notebooks/`: ![Python cleaning, EDA & visualizations](https://github.com/IzaKam13/Portfolio-1_Sales-Logistics_Python-Tableau-Dashboard/blob/main/notebooks/Project_1.ipynb)
-- `dashboard/`: ![Tableau](https://github.com/IzaKam13/Portfolio-1_Sales-Logistics_Python-Tableau-Dashboard/blob/main/tableau/Project_1.twb) workbook 
+- `tableau/`: ![Tableau](https://github.com/IzaKam13/Portfolio-1_Sales-Logistics_Python-Tableau-Dashboard/blob/main/tableau/Project_1.twb) workbook 
