@@ -1,0 +1,260 @@
+Order ID,Product,Customer Region,Order Date,Ship Date,Delivery Status,Revenue (€),Inventory Level,Warehouse,Shipping Method
+,,,,,,,,,
+ORD1000,Sensor B,Berlin,15/03/2025,2025-03-23,Late,€1570.4,116,Leipzig,Express
+ORD1001, Sensor C ,MUNICH,08/03/2025,2025-03-12,Delivered,€700.73,-3,Leipzig,Express
+ORD1002,Sensor A,MUNICH,06/04/2025,2025-04-13,Delivered,€1880.18,,Poznan, Economy
+ORD1003,Sensor B,Warsaw,14/06/2025,2025-06-20,Delivered,€63.78,,Poznan,Express
+ORD1004,MODULE Y,Berlin,04/04/2025,2025-04-15,Delivered,€503.9,56,Munich,Standard
+ORD1005,module x,berlin,04/02/2025,2025-02-08,Delivered,€960.19,1,Leipzig, Economy
+ORD1006, Sensor C ,Berlin,03/07/2025,2025-07-09,Delivered,,8,Leipzig,Standard
+ORD1007, Sensor C ,Warsaw,20/01/2025,2025-01-23,Delivered,,86,Leipzig,Standard
+ORD1008,Sensor B,MUNICH,06/05/2025,2025-05-14,Delivered,€388.06,44,Leipzig,Standard
+ORD1009,MODULE Y,Berlin,16/01/2025,2025-01-25,Late,€455.49,87,Munich, Economy
+ORD1010,MODULE Y,berlin,28/06/2025,2025-07-01,Late,€1794.91,42,Leipzig,Express
+ORD1011,Sensor B, Krakow ,04/01/2025,2025-01-13,Delivered,€1924.29,103,Munich, Economy
+ORD1012,MODULE Y,berlin,18/06/2025,2025-06-21,Delivered,€1932.25,103,Leipzig,Express
+ORD1013,module x,Berlin,29/03/2025,2025-04-08,Delivered,€80.49,-5,Leipzig,Express
+ORD1014,MODULE Y,berlin,04/01/2025,2025-01-13,Delivered,€1428.37,27,Munich,Express
+ORD1015,Sensor A,Warsaw,02/04/2025,2025-04-08, Cancelled,€1834.17,6,Poznan,Standard
+ORD1016,Sensor A,berlin,25/04/2025,2025-04-28,Delivered,€1354.24,38,Munich,Standard
+ORD1017,Sensor A,MUNICH,16/05/2025,2025-05-25,Delivered,€796.71,-3,Leipzig,Express
+ORD1018,module x,Berlin,16/03/2025,2025-03-18,Late,€549.33,73,Poznan, Economy
+ORD1019,Sensor B, Krakow ,02/04/2025,2025-04-13,Delivered,€111.29,46,Munich, Economy
+ORD1020,module x, Krakow ,03/01/2025,2025-01-08, Cancelled,€850.25,30,Poznan, Economy
+ORD1021,Sensor B,berlin,06/06/2025,2025-06-14,Delivered,€1862.91,51,Leipzig, Economy
+ORD1022,Sensor A, Krakow ,19/03/2025,2025-03-25, Cancelled,€413.81,69,Poznan,Standard
+ORD1023, Sensor C ,Berlin,29/05/2025,2025-06-09,Delivered,€1818.32,21,Leipzig,Express
+ORD1024,Sensor A, Krakow ,30/06/2025,2025-07-10,Late,€63.56,3,Poznan,Standard
+ORD1025, Sensor C ,MUNICH,02/01/2025,2025-01-08,Delivered,€526.04,26,Leipzig,Standard
+ORD1026,module x,berlin,12/06/2025,2025-06-21,Late,€1944.98,33,Leipzig, Economy
+ORD1027,MODULE Y,MUNICH,04/05/2025,2025-05-07,Late,€1995.59,-4,Leipzig,Express
+ORD1028,Sensor A,MUNICH,13/03/2025,2025-03-16,Delivered,,-5,Leipzig,Express
+ORD1029,module x, Krakow ,19/01/2025,2025-01-23,Delivered,€923.18,113,Munich,Express
+ORD1029,module x, Krakow ,19/01/2025,2025-01-23,Delivered,€923.18,113,Munich,Express
+ORD1030,MODULE Y,Warsaw,11/05/2025,2025-05-16,Delivered,€522.21,63,Leipzig, Economy
+ORD1031,Sensor A, Krakow ,21/06/2025,2025-06-26,,€1642.04,67,Munich, Economy
+ORD1032,MODULE Y, Krakow ,12/01/2025,2025-01-19,Delivered,€685.62,84,Munich,Standard
+ORD1033,MODULE Y,Berlin,14/03/2025,2025-03-18,Late,€237.54,34,Poznan,Standard
+ORD1034,Sensor B,Berlin,30/06/2025,2025-07-08, Cancelled,€715.08,17,Munich,Express
+ORD1035,module x,Warsaw,30/06/2025,2025-07-11,Delivered,€1643.58,54,Leipzig,Standard
+ORD1036,module x,Berlin,09/06/2025,2025-06-11,Delivered,€1799.57,117,Poznan, Economy
+ORD1037, Sensor C , Krakow ,02/07/2025,2025-07-10,Delivered,€1465.61,18,Leipzig,Standard
+ORD1038,module x,Warsaw,02/04/2025,2025-04-09,Late,€214.07,32,Munich,Standard
+ORD1039,Sensor B,berlin,15/03/2025,2025-03-24,Delivered,,93,Munich,Express
+ORD1040,module x,berlin,15/01/2025,2025-01-25,Delivered,€1120.03,74,Poznan,Express
+ORD1041, Sensor C ,MUNICH,14/04/2025,2025-04-24,Delivered,,42,Poznan,Standard
+ORD1042,Sensor B, Krakow ,16/03/2025,2025-03-21,Delivered,€1455.83,42,Poznan,Express
+ORD1043,Sensor B, Krakow ,04/05/2025,2025-05-08,Delivered,€1200.25,45,Munich,Standard
+ORD1044,module x,Warsaw,01/07/2025,2025-07-08, Cancelled,€732.65,105,Poznan, Economy
+ORD1045, Sensor C ,berlin,22/06/2025,2025-06-24,Delivered,€597.51,,Poznan,Express
+ORD1046,Sensor A,Warsaw,21/01/2025,2025-01-23,Delivered,€966.39,0,Leipzig,Express
+ORD1047, Sensor C , Krakow ,05/06/2025,2025-06-09,Late,€694.96,89,Poznan, Economy
+ORD1048, Sensor C , Krakow ,26/04/2025,2025-04-30,,€646.11,27,Leipzig, Economy
+ORD1049, Sensor C ,berlin,24/02/2025,2025-02-28,Delivered,€1875.5,98,Leipzig,Standard
+ORD1050,Sensor B, Krakow ,12/03/2025,2025-03-21,Delivered,€749.36,100,Leipzig, Economy
+ORD1051,Sensor A, Krakow ,18/03/2025,2025-03-21,Delivered,€316.41,33,Munich,Standard
+ORD1052,MODULE Y,Berlin,11/01/2025,2025-01-22,Late,€1740.79,116,Poznan,Express
+ORD1053,Sensor A,berlin,29/06/2025,2025-07-07,Delivered,€1317.43,10,Poznan, Economy
+ORD1054, Sensor C , Krakow ,17/03/2025,2025-03-21,Delivered,€233.26,80,Leipzig, Economy
+ORD1055,Sensor A,Warsaw,26/02/2025,2025-03-02,Delivered,€608.76,80,Poznan,Express
+ORD1056,Sensor A,Berlin,20/06/2025,2025-06-22,Delivered,€752.37,91,Munich, Economy
+ORD1057, Sensor C ,MUNICH,22/02/2025,2025-03-03,Late,€1264.64,103,Leipzig,Standard
+ORD1058,Sensor A,berlin,16/06/2025,2025-06-21,Delivered,€319.79,108,Poznan,Standard
+ORD1059, Sensor C ,Berlin,03/07/2025,2025-07-14,Delivered,€578.12,49,Munich,Standard
+ORD1059, Sensor C ,Berlin,03/07/2025,2025-07-14,Delivered,€578.12,49,Munich,Standard
+ORD1060,Sensor A,MUNICH,30/06/2025,2025-07-11,Delivered,€1680.16,111,Poznan,Standard
+ORD1061,Sensor A,Berlin,22/04/2025,2025-04-24,Delivered,€537.97,42,Munich, Economy
+ORD1062,module x,MUNICH,29/06/2025,2025-07-09,Delivered,€1911.99,57,Leipzig,Express
+ORD1063,MODULE Y,Berlin,22/06/2025,2025-06-28,Delivered,€533.08,95,Leipzig, Economy
+ORD1064,Sensor A,Berlin,31/03/2025,2025-04-07,Delivered,€139.71,104,Leipzig, Economy
+ORD1065,Sensor A,MUNICH,05/03/2025,2025-03-10,Delivered,,79,Leipzig, Economy
+ORD1066,module x,Warsaw,24/06/2025,2025-07-02,Delivered,€1317.06,112,Leipzig, Economy
+ORD1067,Sensor A,berlin,12/05/2025,2025-05-18, Cancelled,€79.84,90,Leipzig, Economy
+ORD1068,Sensor A,berlin,04/02/2025,2025-02-06,Delivered,€1250.91,-4,Munich, Economy
+ORD1069,Sensor B,MUNICH,24/02/2025,2025-02-26, Cancelled,€1611.85,29,Poznan,Standard
+ORD1070,MODULE Y,Warsaw,01/04/2025,2025-04-03,Delivered,€1885.86,27,Leipzig,Standard
+ORD1071,Sensor A,Warsaw,08/03/2025,2025-03-17, Cancelled,€185.25,-4,Poznan,Standard
+ORD1072,MODULE Y, Krakow ,04/06/2025,2025-06-08,Delivered,€1328.66,68,Munich, Economy
+ORD1073,Sensor A, Krakow ,05/03/2025,2025-03-16,Delivered,€1017.27,108,Munich,Standard
+ORD1074, Sensor C ,Berlin,13/05/2025,2025-05-22,Late,€599.97,67,Munich,Express
+ORD1075, Sensor C ,Berlin,26/01/2025,2025-02-04,Late,€854.6,97,Leipzig, Economy
+ORD1076,MODULE Y,berlin,12/02/2025,2025-02-21, Cancelled,€515.26,17,Munich, Economy
+ORD1077, Sensor C ,berlin,26/02/2025,2025-03-08,Delivered,€1091.94,83,Leipzig,Express
+ORD1078, Sensor C ,Berlin,25/05/2025,2025-06-01,Delivered,€154.3,13,Munich, Economy
+ORD1079,module x,Berlin,03/03/2025,2025-03-13,Delivered,€1903.68,105,Leipzig, Economy
+ORD1080,MODULE Y,Warsaw,02/04/2025,2025-04-08,Delivered,€1129.72,47,Munich, Economy
+ORD1081,Sensor B,berlin,10/05/2025,2025-05-18,Late,€1865.31,8,Poznan,Standard
+ORD1082,MODULE Y,Warsaw,03/04/2025,2025-04-14,Delivered,€734.28,70,Leipzig,Standard
+ORD1083,Sensor A,berlin,01/07/2025,2025-07-11,Late,€247.19,7,Poznan, Economy
+ORD1084,Sensor A,berlin,28/04/2025,2025-05-07,Delivered,€1427.17,31,Leipzig,Standard
+ORD1085,MODULE Y, Krakow ,26/02/2025,2025-03-05,,€772.75,65,Munich,Express
+ORD1086,Sensor B,Warsaw,04/02/2025,2025-02-14,Delivered,€1430.95,102,Munich,Express
+ORD1087,MODULE Y, Krakow ,03/06/2025,2025-06-10,Late,€693.99,39,Munich,Express
+ORD1088,module x,MUNICH,14/01/2025,2025-01-17,Delivered,€281.69,99,Poznan,Express
+ORD1089,module x,Warsaw,26/01/2025,2025-02-03,Late,€1926.24,107,Poznan,Express
+ORD1089,module x,Warsaw,26/01/2025,2025-02-03,Late,€1926.24,107,Poznan,Express
+ORD1090,MODULE Y,MUNICH,07/03/2025,2025-03-17, Cancelled,€1928.28,,Munich,Express
+ORD1091, Sensor C ,berlin,15/02/2025,2025-02-21,Delivered,€1842.28,13,Poznan,Express
+ORD1092, Sensor C ,Warsaw,31/05/2025,2025-06-05,Delivered,€472.78,-5,Leipzig, Economy
+ORD1093, Sensor C ,MUNICH,20/06/2025,2025-06-26,Delivered,€1487.35,68,Poznan,Express
+ORD1094,MODULE Y,berlin,30/06/2025,2025-07-09,Delivered,€704.54,30,Leipzig, Economy
+ORD1095,Sensor A,Warsaw,10/06/2025,2025-06-21,Delivered,€568.58,94,Munich, Economy
+ORD1096,Sensor B,Berlin,03/02/2025,2025-02-10,Delivered,€851.85,106,Leipzig,Express
+ORD1097,module x,Warsaw,19/03/2025,2025-03-23,Late,€1465.15,60,Leipzig,Standard
+ORD1098, Sensor C ,MUNICH,04/02/2025,2025-02-15, Cancelled,€138.18,,Poznan,Standard
+ORD1099,module x,Warsaw,09/06/2025,2025-06-11,Late,€1971.31,20,Munich, Economy
+ORD1100,module x, Krakow ,18/01/2025,2025-01-28,,€1684.74,93,Poznan, Economy
+ORD1101,Sensor B,Warsaw,05/05/2025,2025-05-07,Delivered,€1398.84,-1,Leipzig,Standard
+ORD1102,Sensor B,berlin,28/02/2025,2025-03-07, Cancelled,€1465.94,77,Poznan,Express
+ORD1103,Sensor B,Berlin,06/03/2025,2025-03-08,Delivered,€540.31,-2,Leipzig,Express
+ORD1104, Sensor C ,Warsaw,29/01/2025,2025-01-31,Delivered,€748.42,20,Poznan, Economy
+ORD1105,Sensor A,berlin,23/04/2025,2025-05-04,Delivered,€1064.32,48,Munich,Standard
+ORD1106,MODULE Y,MUNICH,24/05/2025,2025-05-30,Delivered,€1200.41,17,Munich, Economy
+ORD1107,Sensor B,Berlin,29/06/2025,2025-07-05,Delivered,€465.28,118,Leipzig,Express
+ORD1108,Sensor B,Berlin,01/03/2025,2025-03-04,Delivered,€814.88,57,Munich,Standard
+ORD1109,module x,MUNICH,19/06/2025,2025-06-22,Delivered,€1578.12,113,Poznan, Economy
+ORD1110, Sensor C ,Berlin,11/03/2025,2025-03-22, Cancelled,€336.79,68,Poznan,Standard
+ORD1111,Sensor B,Berlin,18/01/2025,2025-01-20,Delivered,€1961.06,71,Leipzig, Economy
+ORD1112, Sensor C ,Berlin,23/01/2025,2025-01-27,Delivered,€1190.29,10,Poznan, Economy
+ORD1113,Sensor B, Krakow ,31/05/2025,2025-06-09,Delivered,€852.74,21,Poznan, Economy
+ORD1114,Sensor B,berlin,07/05/2025,2025-05-10,Delivered,€1652.49,36,Poznan,Express
+ORD1115,Sensor B,Berlin,17/06/2025,2025-06-24,Delivered,€948.52,28,Munich, Economy
+ORD1116,module x,Warsaw,30/05/2025,2025-06-01,Delivered,€126.66,115,Leipzig, Economy
+ORD1117, Sensor C ,berlin,22/01/2025,2025-01-29,Delivered,€1845.7,20,Munich,Standard
+ORD1118,Sensor A,Warsaw,06/04/2025,2025-04-11,Late,€409.82,50,Poznan,Express
+ORD1119,Sensor A,MUNICH,30/06/2025,2025-07-07,Delivered,€1085.97,20,Leipzig, Economy
+ORD1119,Sensor A,MUNICH,30/06/2025,2025-07-07,Delivered,€1085.97,20,Leipzig, Economy
+ORD1120,Sensor B,berlin,30/01/2025,2025-02-08,Delivered,€1696.66,118,Munich,Standard
+ORD1121,MODULE Y,Warsaw,09/01/2025,2025-01-12,Delivered,€522.82,95,Poznan, Economy
+ORD1122,module x,berlin,19/05/2025,2025-05-30,Delivered,€223.95,19,Leipzig,Standard
+ORD1123,module x,berlin,16/02/2025,2025-02-18,Delivered,€742.45,12,Poznan,Standard
+ORD1124,Sensor B,Warsaw,28/03/2025,2025-04-02,Delivered,€1503.61,77,Munich, Economy
+ORD1125,Sensor A, Krakow ,19/06/2025,2025-06-30,Delivered,€1309.54,50,Leipzig, Economy
+ORD1126,module x,MUNICH,18/01/2025,2025-01-25,Delivered,€248.48,113,Leipzig,Express
+ORD1127,Sensor B,Warsaw,01/06/2025,2025-06-06, Cancelled,€1621.44,3,Poznan,Standard
+ORD1128,module x,Berlin,02/05/2025,2025-05-10,Delivered,,18,Poznan,Standard
+ORD1129,Sensor A, Krakow ,18/02/2025,2025-02-25,Delivered,€1737.74,107,Leipzig,Express
+ORD1130,Sensor A,berlin,29/06/2025,2025-07-08,Late,€1450.99,20,Munich,Standard
+ORD1131, Sensor C ,Berlin,24/01/2025,2025-01-28,Late,€1937.59,78,Munich,Standard
+ORD1132,MODULE Y,MUNICH,02/05/2025,2025-05-04,Late,€1429.1,32,Munich,Standard
+ORD1133,MODULE Y,Berlin,11/06/2025,2025-06-17,Delivered,€675.25,0,Poznan, Economy
+ORD1134, Sensor C ,MUNICH,31/03/2025,2025-04-03,Delivered,€1120.4,34,Leipzig,Express
+ORD1135,MODULE Y,MUNICH,02/05/2025,2025-05-05,Delivered,€55.29,9,Leipzig,Express
+ORD1136,MODULE Y,Warsaw,05/04/2025,2025-04-14,Delivered,€258.06,54,Poznan,Express
+ORD1137,Sensor A, Krakow ,03/03/2025,2025-03-06,Delivered,€1879.76,29,Leipzig,Standard
+ORD1138,Sensor B,berlin,24/05/2025,2025-05-26,Late,€1691.57,99,Leipzig, Economy
+ORD1139,MODULE Y,berlin,16/06/2025,2025-06-22,Delivered,€370.32,117,Poznan,Express
+ORD1140,Sensor B,berlin,16/06/2025,2025-06-27, Cancelled,€1197.2,66,Leipzig,Express
+ORD1141,Sensor B,Berlin,10/03/2025,2025-03-18,Late,€1267.0,57,Leipzig,Standard
+ORD1142,Sensor A,berlin,27/02/2025,2025-03-01,Delivered,€798.59,98,Leipzig,Standard
+ORD1143, Sensor C ,Berlin,06/06/2025,2025-06-15,Delivered,€1882.67,66,Poznan, Economy
+ORD1144,MODULE Y,Berlin,04/01/2025,2025-01-15,Delivered,€1259.14,97,Munich,Standard
+ORD1145,Sensor A, Krakow ,08/04/2025,2025-04-13,,€1428.61,27,Leipzig, Economy
+ORD1146,MODULE Y,berlin,25/05/2025,2025-05-30,Delivered,€1759.69,32,Leipzig, Economy
+ORD1147,Sensor A,Berlin,06/01/2025,2025-01-11,Delivered,€1029.46,23,Poznan,Express
+ORD1148,Sensor B,berlin,07/02/2025,2025-02-12,Late,€1300.24,30,Leipzig,Express
+ORD1149,MODULE Y,Berlin,06/04/2025,2025-04-17,Delivered,€404.12,32,Poznan,Express
+ORD1149,MODULE Y,Berlin,06/04/2025,2025-04-17,Delivered,€404.12,32,Poznan,Express
+ORD1150,Sensor B,berlin,19/01/2025,2025-01-26,Delivered,€1897.2,7,Munich,Standard
+ORD1151,Sensor B, Krakow ,14/01/2025,2025-01-23,Delivered,€85.31,70,Munich,Express
+ORD1152, Sensor C ,berlin,10/01/2025,2025-01-15, Cancelled,€94.89,107,Munich,Standard
+ORD1153,MODULE Y,MUNICH,12/02/2025,2025-02-23,Delivered,€253.28,5,Leipzig,Standard
+ORD1154,MODULE Y,berlin,25/04/2025,2025-05-03,Delivered,€372.76,81,Poznan,Standard
+ORD1155,Sensor B, Krakow ,15/03/2025,2025-03-25,Delivered,€493.42,41,Leipzig,Standard
+ORD1156,module x,MUNICH,10/05/2025,2025-05-20,Late,€1586.19,29,Munich,Standard
+ORD1157,module x,MUNICH,30/04/2025,2025-05-05,Delivered,€725.37,28,Munich, Economy
+ORD1158, Sensor C ,berlin,18/03/2025,2025-03-20,Delivered,,48,Poznan,Express
+ORD1159,Sensor B,MUNICH,16/05/2025,2025-05-25,Delivered,€116.06,23,Munich,Express
+ORD1160,Sensor B,berlin,15/06/2025,2025-06-22,Delivered,€1054.59,99,Poznan, Economy
+ORD1161,MODULE Y,MUNICH,16/03/2025,2025-03-18,Delivered,€1093.39,65,Leipzig,Standard
+ORD1162,MODULE Y,berlin,15/02/2025,2025-02-17,Delivered,€882.24,56,Leipzig,Express
+ORD1163,module x, Krakow ,20/01/2025,2025-01-22,Delivered,€1151.44,72,Poznan, Economy
+ORD1164,MODULE Y,berlin,19/06/2025,2025-06-23,Delivered,€909.49,32,Poznan,Express
+ORD1165,module x, Krakow ,14/03/2025,2025-03-18,Delivered,€1730.48,26,Poznan, Economy
+ORD1166,Sensor A, Krakow ,10/06/2025,2025-06-21,Delivered,€847.03,,Poznan,Express
+ORD1167,Sensor B,Berlin,01/02/2025,2025-02-04, Cancelled,€1125.86,81,Poznan, Economy
+ORD1168,Sensor B, Krakow ,16/06/2025,2025-06-25,Delivered,€398.16,105,Leipzig,Standard
+ORD1169,module x,berlin,27/01/2025,2025-02-05,Delivered,€1458.42,101,Poznan,Express
+ORD1170,MODULE Y,MUNICH,17/06/2025,2025-06-22, Cancelled,€842.47,76,Poznan, Economy
+ORD1171,MODULE Y,Berlin,13/06/2025,2025-06-21,Delivered,€1703.85,13,Leipzig,Express
+ORD1172,Sensor A, Krakow ,27/06/2025,2025-07-02,Delivered,€1825.72,5,Poznan, Economy
+ORD1173, Sensor C , Krakow ,27/05/2025,2025-06-07,Late,€116.74,31,Leipzig,Express
+ORD1174, Sensor C , Krakow ,31/05/2025,2025-06-07,Late,€1729.08,116,Munich,Express
+ORD1175,Sensor B,Warsaw,23/01/2025,2025-01-30,Late,€1153.26,81,Leipzig,Standard
+ORD1176,Sensor B, Krakow ,16/06/2025,2025-06-18,Delivered,€1496.29,19,Leipzig,Express
+ORD1177, Sensor C ,MUNICH,01/07/2025,2025-07-09,Delivered,€872.32,23,Leipzig,Express
+ORD1178, Sensor C ,Warsaw,22/01/2025,2025-01-25,Delivered,,79,Leipzig, Economy
+ORD1179,MODULE Y,berlin,03/05/2025,2025-05-14,Delivered,€1130.65,116,Munich,Standard
+ORD1179,MODULE Y,berlin,03/05/2025,2025-05-14,Delivered,€1130.65,116,Munich,Standard
+ORD1180, Sensor C , Krakow ,15/02/2025,2025-02-23,Delivered,€564.18,85,Leipzig, Economy
+ORD1181, Sensor C ,Warsaw,20/02/2025,2025-03-01,Delivered,€1013.83,11,Leipzig, Economy
+ORD1182, Sensor C , Krakow ,27/01/2025,2025-02-07,Delivered,€872.97,48,Leipzig,Standard
+ORD1183,module x,Berlin,23/02/2025,2025-02-25,Delivered,€528.43,34,Leipzig,Express
+ORD1184, Sensor C ,Berlin,01/04/2025,2025-04-06,Late,€1154.49,105,Poznan,Express
+ORD1185,MODULE Y, Krakow ,09/04/2025,2025-04-18, Cancelled,€469.13,14,Poznan, Economy
+ORD1186,Sensor A,Warsaw,25/06/2025,2025-06-29,Delivered,€1017.91,92,Munich,Express
+ORD1187, Sensor C , Krakow ,16/04/2025,2025-04-26,Late,€196.52,83,Leipzig,Express
+ORD1188,Sensor A,MUNICH,01/03/2025,2025-03-10,Delivered,€1647.25,38,Poznan,Standard
+ORD1189,MODULE Y,Berlin,24/02/2025,2025-02-28,Delivered,€753.9,117,Leipzig, Economy
+ORD1190, Sensor C ,berlin,14/06/2025,2025-06-16,Delivered,€919.71,56,Poznan,Standard
+ORD1191,MODULE Y,Berlin,08/01/2025,2025-01-17,Late,€1530.12,74,Munich,Express
+ORD1192, Sensor C ,Warsaw,26/02/2025,2025-03-05,,€1311.0,99,Leipzig,Express
+ORD1193,Sensor A, Krakow ,20/01/2025,2025-01-31,Delivered,€1854.23,79,Munich, Economy
+ORD1194,Sensor A,Warsaw,02/04/2025,2025-04-09, Cancelled,,3,Munich,Standard
+ORD1195,module x,Warsaw,20/06/2025,2025-06-24, Cancelled,€1891.32,88,Munich, Economy
+ORD1196,Sensor B,Berlin,29/04/2025,2025-05-04,Late,€1666.39,25,Munich,Express
+ORD1197,Sensor B,Warsaw,21/01/2025,2025-01-30,Delivered,€200.06,34,Leipzig, Economy
+ORD1198,Sensor A,berlin,29/03/2025,2025-04-09,Late,€664.82,87,Leipzig,Standard
+ORD1199,Sensor A, Krakow ,18/05/2025,2025-05-25,Delivered,€1777.66,60,Poznan,Express
+ORD1200, Sensor C ,MUNICH,01/06/2025,2025-06-09,Delivered,€50.46,12,Leipzig,Standard
+ORD1201, Sensor C , Krakow ,13/04/2025,2025-04-17,Delivered,,107,Munich, Economy
+ORD1202,MODULE Y,Berlin,06/05/2025,2025-05-12,Delivered,€579.79,24,Leipzig, Economy
+ORD1203, Sensor C ,Berlin,05/03/2025,2025-03-15,Delivered,€1477.93,,Leipzig, Economy
+ORD1204,Sensor B,Warsaw,02/07/2025,2025-07-11,Delivered,€505.54,59,Leipzig, Economy
+ORD1205,module x,Berlin,05/03/2025,2025-03-11,,€799.44,6,Leipzig,Express
+ORD1206, Sensor C ,Warsaw,11/02/2025,2025-02-22,Late,€1197.68,57,Leipzig,Express
+ORD1207,Sensor B,berlin,17/01/2025,2025-01-26,Delivered,€375.72,53,Poznan,Standard
+ORD1208,module x,Berlin,26/06/2025,2025-07-05, Cancelled,€1235.09,68,Leipzig,Express
+ORD1209,Sensor A,Warsaw,31/03/2025,2025-04-03,Delivered,,114,Munich,Express
+ORD1209,Sensor A,Warsaw,31/03/2025,2025-04-03,Delivered,,114,Munich,Express
+ORD1210,Sensor A, Krakow ,21/04/2025,2025-04-28,Late,€471.83,14,Leipzig, Economy
+ORD1211,MODULE Y,berlin,05/01/2025,2025-01-16,Delivered,€1054.73,11,Poznan,Express
+ORD1212, Sensor C ,MUNICH,05/06/2025,2025-06-14, Cancelled,€1264.73,83,Poznan,Standard
+ORD1213,module x,berlin,23/03/2025,2025-04-02, Cancelled,€941.99,117,Munich,Express
+ORD1214,module x,berlin,21/02/2025,2025-03-03,Delivered,€119.07,19,Munich,Standard
+ORD1215,module x,Warsaw,19/02/2025,2025-02-25,Late,€542.67,,Leipzig,Standard
+ORD1216,module x,Warsaw,12/03/2025,2025-03-18,Delivered,€1926.14,22,Leipzig,Standard
+ORD1217,Sensor B,Warsaw,03/06/2025,2025-06-09,,€1771.67,109,Poznan,Express
+ORD1218,module x,Warsaw,29/01/2025,2025-02-09,Delivered,€1110.37,27,Poznan,Standard
+ORD1219,Sensor A,MUNICH,01/02/2025,2025-02-08,Delivered,€528.31,42,Poznan, Economy
+ORD1220,Sensor A, Krakow ,13/04/2025,2025-04-23,Delivered,€1863.68,21,Leipzig, Economy
+ORD1221,Sensor A,Berlin,28/02/2025,2025-03-07,Delivered,€1924.56,25,Leipzig,Standard
+ORD1222,Sensor A,Berlin,24/05/2025,2025-06-01,Delivered,€495.82,76,Munich,Express
+ORD1223,Sensor B,Berlin,13/05/2025,2025-05-18,Delivered,€554.44,7,Leipzig, Economy
+ORD1224,Sensor B,berlin,18/03/2025,2025-03-20,Delivered,€784.56,,Poznan,Express
+ORD1225, Sensor C ,Berlin,18/01/2025,2025-01-22,Delivered,€85.93,92,Poznan,Standard
+ORD1226, Sensor C , Krakow ,16/01/2025,2025-01-22,Delivered,€1391.38,85,Poznan,Express
+ORD1227,MODULE Y,Warsaw,12/02/2025,2025-02-14,Late,€973.47,114,Leipzig, Economy
+ORD1228,Sensor B,berlin,07/01/2025,2025-01-10, Cancelled,€1939.31,93,Poznan,Standard
+ORD1229,MODULE Y, Krakow ,01/07/2025,2025-07-06,Late,,,Munich, Economy
+ORD1230, Sensor C ,Warsaw,30/03/2025,2025-04-06,Delivered,€542.39,,Poznan, Economy
+ORD1231,MODULE Y, Krakow ,27/02/2025,2025-03-02,Delivered,€881.05,33,Leipzig, Economy
+ORD1232,Sensor A,Warsaw,08/05/2025,2025-05-16,Late,€1687.9,78,Leipzig,Standard
+ORD1233,module x,berlin,07/04/2025,2025-04-14,Delivered,€1928.31,87,Poznan,Express
+ORD1234,Sensor A,Berlin,11/05/2025,2025-05-17, Cancelled,€1930.81,63,Poznan,Standard
+ORD1235,Sensor A,berlin,08/03/2025,2025-03-12,Delivered,€1462.62,29,Munich,Standard
+ORD1236,MODULE Y,Warsaw,18/01/2025,2025-01-20,Delivered,€1735.5,66,Poznan,Standard
+ORD1237,Sensor A,MUNICH,10/01/2025,2025-01-20, Cancelled,€1553.3,110,Poznan,Express
+ORD1238, Sensor C ,Berlin,13/06/2025,2025-06-21,Delivered,€113.43,-3,Munich,Express
+ORD1239, Sensor C ,MUNICH,27/06/2025,2025-07-02,Late,€278.75,102,Munich,Standard
+ORD1239, Sensor C ,MUNICH,27/06/2025,2025-07-02,Late,€278.75,102,Munich,Standard
+ORD1240,Sensor A,MUNICH,12/04/2025,2025-04-17,Delivered,€1008.61,112,Leipzig,Express
+ORD1241,Sensor B,Warsaw,17/03/2025,2025-03-23,Delivered,€655.21,66,Munich,Standard
+ORD1242,Sensor A,Warsaw,20/06/2025,2025-06-26,Delivered,€985.88,26,Munich, Economy
+ORD1243,Sensor B,Warsaw,22/01/2025,2025-02-01, Cancelled,€127.26,82,Poznan, Economy
+ORD1244,Sensor B, Krakow ,03/06/2025,2025-06-13,Delivered,€327.87,80,Munich, Economy
+ORD1245,Sensor B,berlin,27/06/2025,2025-07-02,Delivered,€1885.41,91,Munich, Economy
+ORD1246, Sensor C ,MUNICH,27/06/2025,2025-06-29, Cancelled,€1657.8,97,Munich,Standard
+ORD1247,module x,Warsaw,04/06/2025,2025-06-07,,€1401.73,100,Leipzig,Standard
+ORD1248, Sensor C , Krakow ,24/02/2025,2025-03-04,Delivered,€292.23,3,Poznan, Economy
+ORD1249,Sensor A,Berlin,15/02/2025,2025-02-22,Delivered,€632.73,66,Munich,Standard
