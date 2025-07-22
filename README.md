@@ -9,7 +9,7 @@ To simulate a real-world reporting scenario often seen in ERP systems — where 
 ## Tools & Skills Demonstrated
 
 - **Python (Pandas, Matplotlib, Seaborn)** - data cleaning and preprocessing
-- **Python (Faker)** - ![data generation](https://github.com/IzaKam13/portfolio-1-python-tableau/blob/main/creating_dummy_data.ipynb)
+- **Python (Faker)** - ![data generation](https://github.com/IzaKam13/Portfolio-1_Sales-Logistics_Python-Tableau-Dashboard/blob/main/notebooks/creating_dummy_data.ipynb)
 - **Tableau** – visual analytics and dashboard creation
 - **Data Handling** – working with CSV files and structured business data
 - **KPI Development** – identifying and preparing metrics for reporting
@@ -31,7 +31,7 @@ The final Tableau dashboard includes:
 - **Monthly Trend Analysis**  
 
 
-![dashboard](https://github.com/IzaKam13/Portfolio-1_Python_Tableau/blob/main/Project_1_dashboard.png)
+![dashboard](https://github.com/IzaKam13/Portfolio-1_Sales-Logistics_Python-Tableau-Dashboard/blob/main/dashboard/Project_1_dashboard.png)
 
 ## Insights
 
@@ -41,6 +41,6 @@ The final Tableau dashboard includes:
 
 ## File Structure
 
-- `data/`: ![Raw](https://github.com/IzaKam13/portfolio-1-python-tableau/blob/main/raw_sales_logistics_data.csv) and ![cleaned](https://github.com/IzaKam13/portfolio-1-python-tableau/blob/main/sales_logistics_data_clean.csv) datasets
-- `notebooks/`: ![Python cleaning, EDA & visualizations](https://github.com/IzaKam13/portfolio-1-python-tableau/blob/main/Project_1.ipynb)
-- `dashboard/`: ![Tableau](https://github.com/IzaKam13/Portfolio-1_Python_Tableau/blob/main/Project_1.twb) workbook 
+- `data/`: ![Raw](https://github.com/IzaKam13/Portfolio-1_Sales-Logistics_Python-Tableau-Dashboard/blob/main/data/raw_sales_logistics_data.csv) and ![cleaned](https://github.com/IzaKam13/Portfolio-1_Sales-Logistics_Python-Tableau-Dashboard/blob/main/data/sales_logistics_data_clean.csv) datasets
+- `notebooks/`: ![Python cleaning, EDA & visualizations](https://github.com/IzaKam13/Portfolio-1_Sales-Logistics_Python-Tableau-Dashboard/blob/main/notebooks/Project_1.ipynb)
+- `dashboard/`: ![Tableau](https://github.com/IzaKam13/Portfolio-1_Sales-Logistics_Python-Tableau-Dashboard/blob/main/tableau/Project_1.twb) workbook 
