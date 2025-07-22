@@ -1,4 +1,3 @@
-# portfolio-1-python-tableau
 # ERP-Style Sales & Logistics Dashboard
 
 This project simulates and analyzes sales & delivery data for a fictional company using an ERP-style structure. The goal was to replicate a BI consulting scenario and create a business-oriented dashboard using Python for data wrangling and Tableau for presentation.
@@ -6,7 +5,7 @@ This project simulates and analyzes sales & delivery data for a fictional compan
 ## Tools Used
 - Python (Pandas, Matplotlib, Seaborn)
 - Tableau (dashboarding)
-- Faker (data generation)
+- Faker (![data generation](https://github.com/IzaKam13/portfolio-1-python-tableau/blob/main/creating_dummy_data.ipynb))
 
 ## Key Metrics
 - 💰 Total Revenue: €243,770
@@ -14,7 +13,7 @@ This project simulates and analyzes sales & delivery data for a fictional compan
 - 📉 Late Deliveries: ~18% in some regions
 
 ## Dashboard
-![dashboard](dashboard/dashboard.png)
+![dashboard](https://github.com/IzaKam13/portfolio-1-python-tableau/blob/main/creating_dummy_data.ipynb)
 
 ## Insights
 - Berlin contributed nearly 46% of revenue
@@ -23,6 +22,6 @@ This project simulates and analyzes sales & delivery data for a fictional compan
 - Inventory management and shipping method impact delivery times
 
 ## File Structure
-- `data/`: Cleaned dataset
-- `notebooks/`: Python cleaning & EDA
+- `data/`: ![Raw](https://github.com/IzaKam13/portfolio-1-python-tableau/blob/main/raw_sales_logistics_data.csv) and ![cleaned](https://github.com/IzaKam13/portfolio-1-python-tableau/blob/main/sales_logistics_data_clean.csv) datasets
+- `notebooks/`: ![Python cleaning, EDA & visualizations](https://github.com/IzaKam13/portfolio-1-python-tableau/blob/main/Project_1.ipynb)
 - `dashboard/`: Tableau workbook and screenshot
