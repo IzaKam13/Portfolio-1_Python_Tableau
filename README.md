@@ -8,8 +8,8 @@ To simulate a real-world reporting scenario often seen in ERP systems — where 
 
 ## Tools & Skills Demonstrated
 
-- **Python (Pandas, Matplotlib, Seaborn)** - data cleaning and preprocessing
-- **Python (Faker)** - ![data generation](https://github.com/IzaKam13/Portfolio-1_Sales-Logistics_Python-Tableau-Dashboard/blob/main/notebooks/creating_dummy_data.ipynb)
+- **Python (Pandas, Matplotlib, Seaborn)** – data cleaning and preprocessing
+- **Python (Faker)** – ![data generation](https://github.com/IzaKam13/Portfolio-1_Sales-Logistics_Python-Tableau-Dashboard/blob/main/notebooks/creating_dummy_data.ipynb)
 - **Tableau** – visual analytics and dashboard creation
 - **Data Handling** – working with CSV files and structured business data
 - **KPI Development** – identifying and preparing metrics for reporting
